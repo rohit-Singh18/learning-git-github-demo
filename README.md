@@ -1,2 +1,2 @@
-# learning-git-github-demo
+# Learning-git-github-demo
 This is my first Git Repository
